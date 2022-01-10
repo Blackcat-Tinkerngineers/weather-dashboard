@@ -2,19 +2,20 @@
 
 # Title: Weather Dashboard
 
-! [github license] http://img.shields.io/badge/license-MIT-blue.svg
+![image](https://user-images.githubusercontent.com/88634637/148742176-df62a79d-501a-489b-b12c-b13505ddf1eb.png)
+
 
 ## Description:
 Web application which allows you to see weather of various cities.
 
 ## Table of Contents
-* [URL] (#Url)
+* [URL](#Url)
 * [Title](#Title)
 * [License](#License)
 * [Description](#Description)
 * [Task](#Task)
 * [Criteria](#Criteria)
-* [Contact] (#Contact)
+* [Contact](#Contact)
 
 ## Task:
 Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS. Additionally using a weather API key. 
@@ -38,11 +39,9 @@ THEN I am again presented with current and future conditions for that city
 
 
 ## Contact
-[Name] (CHELSIE L BANGLOY-GONSALVES)
-
-[EMAIL] (clbgonsalves@gmail.com)
-
-[LINKEDIN] (https://www.linkedin.com/in/chelsiebgonsalves)
+Hi my name is Chelsie :)
+* [EMAIL](clbgonsalves@gmail.com)
+* [LINKEDIN](https://www.linkedin.com/in/chelsiebgonsalves)
 
 Thank you <3
 
