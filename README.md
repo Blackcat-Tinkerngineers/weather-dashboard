@@ -1,19 +1,27 @@
-////
-Deployable url:
+# Deployable url: https://github.com/Blackcat-Tinkerngineers/weather-dashboard
 
-////
-Description:
-Web application allows you to see weather for mulitple cities.
+# Title: Weather Dashboard
+
+! [github license] http://img.shields.io/badge/license-MIT-blue.svg
+
+## Description:
+Web application which allows you to see weather of various cities.
+
+## Table of Contents
+* [URL] (#Url)
+* [Title](#Title)
+* [License](#License)
+* [Description](#Description)
+* [Task](#Task)
+* [Criteria](#Criteria)
+* [Contact] (#Contact)
+
+## Task:
+Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS. Additionally using a weather API key. 
 
 
-////
-Task:
-Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
 
-
-
-////
-Criteria:
+## Criteria:
 GIVEN a weather dashboard with form inputs
 WHEN I search for a city
 THEN I am presented with current and future conditions for that city and that city is added to the search history
@@ -29,5 +37,12 @@ THEN I am again presented with current and future conditions for that city
 ![image](https://user-images.githubusercontent.com/88634637/148723574-51724786-9e89-4264-be73-6f5f1bd44f75.png)
 
 
+## Contact
+[Name] (CHELSIE L BANGLOY-GONSALVES)
 
-////
+[EMAIL] (clbgonsalves@gmail.com)
+
+[LINKEDIN] (https://www.linkedin.com/in/chelsiebgonsalves)
+
+Thank you <3
+
