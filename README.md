@@ -2,7 +2,8 @@
 
 # Title: Weather Dashboard
 
-![image](https://user-images.githubusercontent.com/88634637/148742176-df62a79d-501a-489b-b12c-b13505ddf1eb.png)
+![image](https://user-images.githubusercontent.com/88634637/148743214-4ecd5cab-63f5-4529-9854-e9c18d96a602.png)
+
 
 
 ## Description:
