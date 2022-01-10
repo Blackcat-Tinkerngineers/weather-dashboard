@@ -1,0 +1,22 @@
+{
+  "name": "weather-dash",
+  "version": "1.0.0",
+  "description": "////\r Deployable url:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blackcat-Tinkerngineers/weather-dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blackcat-Tinkerngineers/weather-dashboard/issues"
+  },
+  "homepage": "https://github.com/Blackcat-Tinkerngineers/weather-dashboard#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
