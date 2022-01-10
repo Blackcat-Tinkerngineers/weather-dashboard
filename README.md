@@ -1,8 +1,8 @@
-# Deployable url: https://github.com/Blackcat-Tinkerngineers/weather-dashboard
+# Deployable url: https://weather-dashboard-20000.herokuapp.com/
 
 # Title: Weather Dashboard
 
-![image](https://user-images.githubusercontent.com/88634637/148742176-df62a79d-501a-489b-b12c-b13505ddf1eb.png)
+![image](https://user-images.githubusercontent.com/88634637/148753573-819dbbbf-5921-43e8-903d-53c6b060b73c.png)
 
 
 ## Description:
